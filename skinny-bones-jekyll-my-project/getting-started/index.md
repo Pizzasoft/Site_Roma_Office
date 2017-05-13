@@ -291,7 +291,7 @@ If you need to alter the *Overview* headline text that appears at the top of the
 
 #### Google AdSense
 
-To use Google Ads on your site create a [Google AdSense account](https://www.google.com/adsense/) and then add your `ad-client` and `ad-slot` variables to `_config.yml`. To show ads on a post/page add `ads: true` to the YAML Front Matter.
+To use Google Ads on your site create a [Google AdSense account](https://www.google.com/adsense/) and then add your `ad-client` and `ad-slot` variables to `_config.yml`. To show ads on a post/page add `ads: false` to the YAML Front Matter.
 
 <figure>
   <img src="{{ site.url }}/images/google-adsense-responsive.jpg" alt="responsive type">
