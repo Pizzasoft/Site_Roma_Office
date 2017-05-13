@@ -1,14 +1,12 @@
 # Authors
 
 billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
+  name: Tomas Wald
   email: billy@rick.com
   bio: "What do you want, jewels? I am a very extravagant man."
   avatar: bio-photo.jpg
   twitter: extravagantman
-  google:
-    plus: +BillyRick
+
 
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone
