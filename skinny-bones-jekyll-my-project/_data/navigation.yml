@@ -15,12 +15,12 @@
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
 
-- title: About
+- title: Über uns
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "Über unsere Tätigkeiten und Pertner ."
   image: 400x250.gif
 
 - title: Kontakt
   url: /kontakt/
-  excerpt: "Treten sie mit uns in Kontakt"
-  image: 400x250.gif
+  excerpt: "Treten sie mit uns in Kontakt."
+  image: Contact-us-keyboard-400x250.png

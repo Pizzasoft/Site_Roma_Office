@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "About"
+title: "Über uns"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+excerpt: "Über unsere Tätigkeiten und Partner ."
 image:
   feature:
   teaser:
@@ -12,6 +12,5 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
-
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+Das Roma Büro ist eine Selbsthilfeorganisation von derzeit zumeist Roma-Kriegsflüchtlingen aus dem ehemaligen Jugoslawien, aber auch  aus Rumänien und Bulgarien. Wir wollen keine Alimentierung mitsamt Abstellen im Abseits der Depression sondern arbeiten und unser Leben selbst gestalten - also selber für unseren Lebensunterhalt sorgen, um unseren Kindern eine sichere Zukunft zu eröffnen. Wir wollen nicht nur unsere eigene Kultur bewahren, sondern auch durch Interaktion mit den reichhaltigen regionalen Kulturen Kultur in einem neuen Europa  mitentwickeln.
+{: .text-justify}
