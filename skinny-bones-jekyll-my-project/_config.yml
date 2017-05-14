@@ -5,7 +5,7 @@ description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: 
+url:
 feed:
   path: atom.xml
 
@@ -26,15 +26,15 @@ gems:
 
 # Site owner
 owner:
-  name: "Michael Rose"
-  web: "https://mademistakes.com"
-  twitter: "mmistakes"
-  bio: "Just another boring, tattooed, time traveling designer."
+  name: "Roma Büro Freiburg E.V."
+  web: ""
+  twitter:
+  bio: "Von Romas für Romas"
   avatar: "bio-photo.jpg" # 160x160 px image for author byline
   google:
-    plus: "+MichaelRoseDesign"
-    ad-client: "ca-pub-7328585512091257"
-    ad-slot: 3049671934
+    plus:
+    ad-client:
+    ad-slot:
   disqus-shortname:
 
 

@@ -1,23 +1,28 @@
 # Site navigation links
 
 - title: Blog
-  url: /getting-started/
+  url: /blog/
   excerpt: "Dukumentation unserer Aktivitäten."
   image: 400x250.gif
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
+- title: Mediathek
+  url: /media/
+  excerpt: "Unsere Musik, Clips & Filme"
   image: 400x250.gif
 
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+- title: Flucht & Abschiebung
+  url: /fluchtabschiebung/
+  excerpt: "Über die Flucht iherer folgen und über drohende Abschiebungen"
+  image: 400x250.gif
+
+- title: Nachfrage & Angebot
+  url: /nachfrageangebot/
+  excerpt: "Über die Flucht iherer folgen und über drohende Abschiebungen"
   image: 400x250.gif
 
 - title: Über uns
   url: /about/
-  excerpt: "Über unsere Tätigkeiten und Pertner ."
+  excerpt: "Über unsere Tätigkeiten und Partner ."
   image: 400x250.gif
 
 - title: Kontakt
