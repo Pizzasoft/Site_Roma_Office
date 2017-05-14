@@ -4,7 +4,7 @@ title: "Roma Büro Freiburg E.V."
 description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
 teaser: 400x250.gif
-locale: en_US
+locale: de_DE
 url:
 feed:
   path: atom.xml

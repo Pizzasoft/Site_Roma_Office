@@ -5,7 +5,7 @@ date: 2014-05-31T23:14:02-04:00
 modified:
 categories: articles
 excerpt: "A post with a YouTube video."
-tags: [video]
+tags: [video, film]
 ads: false
 image:
   feature:

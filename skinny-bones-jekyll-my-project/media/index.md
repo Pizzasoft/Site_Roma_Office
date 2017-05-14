@@ -9,9 +9,12 @@ image:
   feature:
   teaser:
 ---
-
 <div class="tiles">
-{% for post in site.categories.media %}
-  {% include post-grid.html %}
+{% for post in site.categories.articles %}
+
+  {% if post.tags contains 'video' %}
+    {% include post-grid.html %}
+  {% endif %}
+
 {% endfor %}
 </div><!-- /.tiles -->
